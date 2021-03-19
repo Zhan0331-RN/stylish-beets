@@ -34,6 +34,11 @@ nav a {
   color:#8f2440;
 }
 
+nav a:hover{
+  color: #3f1622;
+  border-bottom: 3px dotted #3f1622;
+}
+
 figcaption {
   font-size: .8em;
   font-family: "PT Serif", serif;
