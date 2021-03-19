@@ -6,21 +6,24 @@ html {
   box-sizing: inherit;
 }
 
-  /*
+/*
 font-family: 'PT Sans', sans-serif;
 font-family: 'PT Serif', serif;
 */
 
-
-body{
+body {
   background-color: #c9b5ab;
 }
 
-.beets{
+.beets {
   width: 90%;
 }
 
-nav ol{
+img{
+  border-radius: 4px;
+}
+
+nav ol {
   list-style-type: none;
   margin: 1.5em;
   padding: 1em;
@@ -28,26 +31,27 @@ nav ol{
 
 }
 
-nav a{
-  font-family: 'PT Sans', sans-serif;
+nav a {
+  font-family: "PT Sans", sans-serif;
   text-decoration: none;
   color:#8f2440;
 }
 
-figcaption{
+figcaption {
   font-size: .8em;
-  font-family: 'PT Serif', serif;
+  font-family: "PT Serif", serif;
   font-style: italic;
   text-align: center;
 }
 
-.harvest{
+.harvest {
   font-weight: bold;
 }
 
-.talltext{
+.talltext {
   font-size: 2em;
   line-height: 1;
-  font-family: 'PT Serif', serif;
+  font-family: "PT Serif", serif;
+  font-weight: normal;
   font-style: italic;
 }
