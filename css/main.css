@@ -6,7 +6,7 @@ html {
   box-sizing: inherit;
 }
 
-/*
+  /*
 font-family: 'PT Sans', sans-serif;
 font-family: 'PT Serif', serif;
 */
@@ -43,4 +43,11 @@ figcaption{
 
 .harvest{
   font-weight: bold;
+}
+
+.talltext{
+  font-size: 2em;
+  line-height: 1;
+  font-family: 'PT Serif', serif;
+  font-style: italic;
 }
