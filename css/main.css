@@ -51,12 +51,11 @@ figcaption {
   font-family: "PT Serif", serif;
   font-style: italic;
   text-align: center;
-  line-height: 1;
 }
 
 .harvest {
   font-weight: bold;
-  font-size: 1em;
+  font-size: 1.3em;
   line-height: 1.5;
 }
 
