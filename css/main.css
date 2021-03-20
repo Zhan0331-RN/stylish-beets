@@ -16,14 +16,15 @@ body {
 }
 
 h1 {
-  font-family: 'PT Sans', sans-serif;
+  font-family: "PT Sans", sans-serif;
   color: #3f1633;
   font-size: 1em;
 }
+
 img {
   border-radius: 4px;
   width: 100%;
-  margin-top: auto;
+  margin-top: .3em;
 }
 
 nav ol {
@@ -31,13 +32,12 @@ nav ol {
   margin: 1.5em;
   padding: 1em;
   text-decoration-color: #8f2440;
-
 }
 
 nav a {
   font-family: "PT Sans", sans-serif;
   text-decoration: none;
-  color:#8f2440;
+  color: #8f2440;
   font-size: .8em;
 }
 
@@ -47,7 +47,7 @@ nav a:hover {
 }
 
 figcaption {
-  font-size: .8em;
+  font-size: .9em;
   font-family: "PT Serif", serif;
   font-style: italic;
   text-align: center;
@@ -65,31 +65,41 @@ figcaption {
   font-style: italic;
 }
 
-.chris{
-  font-size: 0.6em;
+.chris {
+  font-size: .6em;
 }
 
-h2{
+h2 {
   font-family: "PT Sans", sans-serif;
-  color:#222;
+  color: #222;
   font-size: 1em;
 }
 
-.albino{
+.albino {
   list-style: lower-greek;
   font-size: .8em;
+  line-height: 1.5;
 }
 
-.serving{
+.serving {
   font-style: italic;
-
 }
 
-section dl dt{
+section dl dt {
   font-weight: bold;
   font-size: .8em;
+  line-height: 1.5;
 }
 
-aside ul li{
+aside ul li {
   list-style: circle;
+  font-size: .8em;
+  line-height: 1.3;
+}
+
+footer small a {
+  font-size: .8em;
+  list-style-type: none;
+  text-decoration: none;
+  color: #3f1622;
 }
