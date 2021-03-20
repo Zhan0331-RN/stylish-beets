@@ -43,7 +43,7 @@ nav a {
 
 nav a:hover {
   color: #3f1622;
-  border-bottom: 3px dotted #3f1622;
+  text-decoration: underline;
 }
 
 figcaption {
@@ -51,10 +51,13 @@ figcaption {
   font-family: "PT Serif", serif;
   font-style: italic;
   text-align: center;
+  line-height: 1;
 }
 
 .harvest {
   font-weight: bold;
+  font-size: 1em;
+  line-height: 1.5;
 }
 
 .talltext {
