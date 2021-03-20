@@ -60,7 +60,7 @@ figcaption {
 }
 
 .talltext {
-  font-size: 1.2em;
+  font-size: 1.5em;
   line-height: 1.5;
   font-family: "PT Serif", serif;
   font-weight: normal;
@@ -106,7 +106,7 @@ footer small a {
   color: #3f1622;
 }
 
-.purple{
-line-height: 1.5;
-font-size: 1em;
+.purple {
+  line-height: 1.5;
+  font-size: 1.2em;
 }
