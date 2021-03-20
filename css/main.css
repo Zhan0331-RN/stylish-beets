@@ -34,14 +34,14 @@ nav ol {
   text-decoration-color: #8f2440;
 }
 
-nav a {
+a {
   font-family: "PT Sans", sans-serif;
   text-decoration: none;
   color: #8f2440;
   font-size: .8em;
 }
 
-nav a:hover {
+a:hover {
   color: #3f1622;
   text-decoration: underline;
 }
