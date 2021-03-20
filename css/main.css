@@ -22,7 +22,7 @@ h1 {
 }
 img {
   border-radius: 4px;
-  width: 95%;
+  width: 100%;
   margin-top: auto;
 }
 
@@ -65,7 +65,7 @@ figcaption {
   font-style: italic;
 }
 
-.Chris{
+.chris{
   font-size: 0.6em;
 }
 
@@ -75,7 +75,7 @@ h2{
   font-size: 1em;
 }
 
-.Albino{
+.albino{
   list-style: lower-greek;
   font-size: .8em;
 }
